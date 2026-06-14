@@ -9,7 +9,8 @@ Source map for the repository.
 - `HITL.md` - global escalation and preference rulings.
 - `PORTMASTER.md` - local service port guidance.
 - `HANDOFF.md` - active task state and next steps.
+- `templates/SUMMARY.md` - reusable project summary template.
 
 ## Layout
 
-- `assets/` - preview artwork and other visual assets.
+- `templates/` - reusable Markdown templates.
