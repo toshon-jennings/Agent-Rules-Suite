@@ -18,11 +18,11 @@ This repo is for project context that humans and coding agents can both use: sou
 
 | File | Description |
 | --- | --- |
-| [AGENTS.md](./AGENTS.md) | Repo-level rules for coding agents working here. |
-| [HITL.md](./HITL.md) | Human-in-the-loop rulings and escalation boundaries. |
-| [PORTMASTER.md](./PORTMASTER.md) | Port assignment and local service coordination notes. |
-| [SUMMARY.md](./SUMMARY.md) | Source map for this repository. |
-| [HANDOFF.md](./HANDOFF.md) | Active task state and continuity notes for this repository. |
+| [AGENTS.md](./AGENTS.md) | **Policy:** Repo-level rules for coding agents working here. | 
+| [HITL.md](./HITL.md) | **Oversight:** Human-in-the-loop governance, rulings, and escalation boundaries. |
+| [PORTMASTER.md](./PORTMASTER.md) | **Orchestration:** Port assignment and local service/routing coordination notes. |
+| [HANDOFF.md](./HANDOFF.md) | **Context & Continuity:** Active task state and continuity notes for this repository. |
+| [SUMMARY.md](./SUMMARY.md) | **Resource Management:** Source map for this repository. |
 
 ---
 **Supplemental Markdown templates may be added here over time.**
