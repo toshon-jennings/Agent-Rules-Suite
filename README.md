@@ -24,4 +24,5 @@ This repo is for project context that humans and coding agents can both use: sou
 | [SUMMARY.md](./SUMMARY.md) | Source map for this repository. |
 | [HANDOFF.md](./HANDOFF.md) | Active task state and continuity notes for this repository. |
 
-Supplemental Markdown templates may be added here over time.
+---
+**Supplemental Markdown templates may be added here over time.**
