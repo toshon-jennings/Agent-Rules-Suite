@@ -15,4 +15,13 @@ Reusable Markdown templates and AI-workflow docs for keeping projects understand
 
 ## Social preview
 
-GitHub social preview artwork is maintained locally in `~/social-previews/`.
+![Agent Rules Suite social preview](./assets/social-preview.png)
+
+The social preview is designed to make the repo read as an AI-docs and Markdown-template library at a glance: `SUMMARY.md`, `HANDOFF.md`, `AGENTS.md`, reusable context, and project continuity.
+
+| Asset | Use |
+| --- | --- |
+| [assets/social-preview.png](./assets/social-preview.png) | Upload this 1280 x 640 image in GitHub repo settings. |
+| [assets/social-preview.svg](./assets/social-preview.svg) | Edit this source file when the preview needs copy or layout changes. |
+
+To apply it on GitHub, open the repository settings for `toshon-jennings/Agent-Rules-Suite`, go to the social preview image setting, and upload `assets/social-preview.png`.

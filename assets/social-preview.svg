@@ -1,0 +1,63 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="paper" x1="190" y1="92" x2="1070" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF8E8"/>
+      <stop offset="1" stop-color="#E9F4F1"/>
+    </linearGradient>
+    <linearGradient id="dark" x1="0" y1="0" x2="1280" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#15120E"/>
+      <stop offset="1" stop-color="#26211B"/>
+    </linearGradient>
+    <filter id="lift" x="126" y="52" width="1030" height="560" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="28" stdDeviation="34" flood-color="#000000" flood-opacity="0.34"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#dark)"/>
+  <path d="M0 132H1280M0 260H1280M0 388H1280M0 516H1280" stroke="#FFF8E8" stroke-opacity="0.055"/>
+  <path d="M160 0V640M320 0V640M480 0V640M640 0V640M800 0V640M960 0V640M1120 0V640" stroke="#FFF8E8" stroke-opacity="0.045"/>
+  <rect x="0" y="0" width="1280" height="14" fill="#4FD3C4"/>
+  <rect x="0" y="626" width="1280" height="14" fill="#F25F5C"/>
+
+  <g filter="url(#lift)">
+    <rect x="148" y="86" width="984" height="468" rx="18" fill="url(#paper)"/>
+    <rect x="148" y="86" width="984" height="468" rx="18" stroke="#F9C846" stroke-width="4"/>
+  </g>
+
+  <rect x="198" y="132" width="112" height="38" rx="19" fill="#15120E"/>
+  <text x="254" y="157" text-anchor="middle" fill="#FFF8E8" font-family="Avenir Next, Helvetica, Arial, sans-serif" font-size="17" font-weight="700">AI DOCS</text>
+
+  <text x="198" y="244" fill="#15120E" font-family="Avenir Next, Helvetica, Arial, sans-serif" font-size="68" font-weight="800">Agent Rules</text>
+  <text x="198" y="314" fill="#15120E" font-family="Avenir Next, Helvetica, Arial, sans-serif" font-size="68" font-weight="800">Suite</text>
+  <text x="202" y="370" fill="#4B463D" font-family="Avenir Next, Helvetica, Arial, sans-serif" font-size="29" font-weight="600">Markdown templates for AI work.</text>
+  <text x="202" y="412" fill="#6D655A" font-family="Avenir Next, Helvetica, Arial, sans-serif" font-size="23">Summaries, handoffs, rulings, and reusable context.</text>
+
+  <g>
+    <rect x="202" y="462" width="142" height="42" rx="8" fill="#4FD3C4"/>
+    <text x="273" y="490" text-anchor="middle" fill="#15120E" font-family="Avenir Next, Helvetica, Arial, sans-serif" font-size="18" font-weight="800">SUMMARY.md</text>
+    <rect x="358" y="462" width="138" height="42" rx="8" fill="#F9C846"/>
+    <text x="427" y="490" text-anchor="middle" fill="#15120E" font-family="Avenir Next, Helvetica, Arial, sans-serif" font-size="18" font-weight="800">HANDOFF.md</text>
+    <rect x="510" y="462" width="126" height="42" rx="8" fill="#F25F5C"/>
+    <text x="573" y="490" text-anchor="middle" fill="#15120E" font-family="Avenir Next, Helvetica, Arial, sans-serif" font-size="18" font-weight="800">AGENTS.md</text>
+  </g>
+
+  <g transform="translate(760 150)">
+    <rect x="18" y="26" width="260" height="330" rx="18" fill="#15120E"/>
+    <rect x="46" y="64" width="156" height="16" rx="8" fill="#FFF8E8"/>
+    <rect x="46" y="104" width="204" height="12" rx="6" fill="#4FD3C4"/>
+    <rect x="46" y="136" width="134" height="12" rx="6" fill="#F9C846"/>
+    <rect x="46" y="168" width="186" height="12" rx="6" fill="#F25F5C"/>
+    <rect x="46" y="222" width="90" height="72" rx="10" fill="#FFF8E8"/>
+    <rect x="160" y="222" width="90" height="72" rx="10" fill="#FFF8E8"/>
+    <path d="M136 258H160" stroke="#4FD3C4" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="90" cy="258" r="10" fill="#4FD3C4"/>
+    <circle cx="204" cy="258" r="10" fill="#F25F5C"/>
+
+    <path d="M278 92C328 92 342 132 342 172C342 212 314 238 278 238" stroke="#15120E" stroke-width="8" stroke-linecap="round"/>
+    <path d="M278 142H330" stroke="#15120E" stroke-width="8" stroke-linecap="round"/>
+    <path d="M278 198H322" stroke="#15120E" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="344" cy="92" r="15" fill="#4FD3C4"/>
+    <circle cx="352" cy="172" r="15" fill="#F9C846"/>
+    <circle cx="336" cy="238" r="15" fill="#F25F5C"/>
+  </g>
+</svg>

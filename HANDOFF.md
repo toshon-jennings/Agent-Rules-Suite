@@ -15,9 +15,10 @@ Create a polished GitHub repo landing page for reusable AI-workflow Markdown tem
 - [x] Reframe README around reusable AI-workflow Markdown templates.
 - [x] Add the initial `SUMMARY.md` template.
 - [x] Remove stale repo-local preview asset references.
+- [x] Build out README social preview section with committed assets and usage notes.
 
 ## Notes
 
 - The repo started empty, so this is a fresh scaffold rather than a refactor.
 - Keep the content concise and presentation-focused.
-- GitHub preview artwork is maintained in `~/social-previews/`, outside the repo.
+- GitHub preview artwork is now committed in `assets/` and mirrored in `~/social-previews/`.

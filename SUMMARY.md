@@ -10,7 +10,10 @@ Source map for the repository.
 - `PORTMASTER.md` - local service port guidance.
 - `HANDOFF.md` - active task state and next steps.
 - `templates/SUMMARY.md` - reusable project summary template.
+- `assets/social-preview.png` - GitHub social preview image.
+- `assets/social-preview.svg` - editable source for the social preview.
 
 ## Layout
 
 - `templates/` - reusable Markdown templates.
+- `assets/` - repo visuals and GitHub preview artwork.
