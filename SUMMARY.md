@@ -4,7 +4,7 @@ Source map for the repository.
 
 ## Files
 
-- `README.md` - index of the repo docs and preview asset.
+- `README.md` - content-focused index of the repo docs and templates.
 - `AGENTS.md` - core behavior rules for agents.
 - `HITL.md` - global escalation and preference rulings.
 - `PORTMASTER.md` - local service port guidance.
